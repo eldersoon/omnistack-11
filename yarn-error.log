@@ -1,0 +1,32 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add express
+
+PATH: 
+  C:\Python27\;C:\Python27\Scripts;C:\Program Files\nodejs;C:\composer;C:\Program Files\Microsoft VS Code\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MongoDB\Server\4.2\bin;C:\Program Files\PostgreSQL\10\bin\;C:\ProgramData\chocolatey\bin;C:\Program Files\Java\jdk1.8.0_221\bin;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\nodejs\;C:\Program Files\nodejs;C:\Users\elder\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\elder\AppData\Local\Programs\Python\Python37-32\;C:\Users\elder\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Microsoft VS Code\bin;C:\Users\elder\AppData\Roaming\Composer\vendor\bin;C:\Users\elder\AppData\Local\GitHubDesktop\bin;C:\Program Files\MySQL;C:\xampp\php;C:\Program Files\heroku\bin;C:\Users\elder\AppData\Local\Temp;C:\Windows\System32;C:\Program Files\JetBrains\PyCharm Community Edition 2019.2\bin;C:/Arquivos de Programas/Git/bin;C:\Users\elder\AppData\Local\Microsoft\WindowsApps;C:\Program Files\MongoDB\Server\4.2\bin;C:\Program Files\PostgreSQL\10\bin;C:\Android\Sdk\platform-tools;C:\Android\Sdk\tools;C:\Users\elder\AppData\Local\Yarn\bin;C:\Program Files\Docker Toolbox;C:\Users\elder\AppData\Roaming\npm
+
+Yarn version: 
+  1.19.1
+
+Node version: 
+  12.16.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: getaddrinfo EAI_AGAIN registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:64:26)
+
+npm manifest: 
+  {
+    "name": "backend",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
